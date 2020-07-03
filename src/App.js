@@ -1,21 +1,13 @@
-import React from 'react';
-import Header from "./components/Header";
-import EmployeeSearch from "./components/EmployeeSearch/EmployeeSearch";
-import "./components/EmployeeSearch/employeeSearch.css";
-import "./components/EmployeeCard/employeeCard.css";
-
+import React from "react";
+import MainContainer from "./components/MainContainer.js";
+import "./App.css";
 
 function App() {
-
-  return (
-    <div>
-      <Header />
-      <EmployeeSearch />
-    </div >
-  )
+    return (
+        <div>
+            <MainContainer />
+        </div>
+    );
 }
-
-
-
 
 export default App;
