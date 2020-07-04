@@ -21,3 +21,7 @@ npm start
 - node.js
 - Heroku
 - React
+
+## Deployed Heroku App
+
+https://random-directory.herokuapp.com/
