@@ -11,8 +11,6 @@ function Header(props) {
                     <p className="header-desc">Search and View Employees</p>
                 </div>
             </div>
-            {/* form group has onChange detects when value of input element is changed 
-            // with each keystroke*/}
             <form className="form-container">
                 <div className="form-group">
                     <label>Search by Name:<br></br></label>
