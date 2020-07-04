@@ -25,3 +25,7 @@ npm start
 ## Deployed Heroku App
 
 https://random-directory.herokuapp.com/
+
+## Deployed GitPages
+
+https://jake1986.github.io/Employee-Directory/
