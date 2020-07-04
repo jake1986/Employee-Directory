@@ -29,3 +29,7 @@ https://random-directory.herokuapp.com/
 ## Deployed GitPages
 
 https://jake1986.github.io/Employee-Directory/
+
+## Video Walk Through
+
+https://gitduck.com/watch/5f0096ef23da8f711c88ac5c
