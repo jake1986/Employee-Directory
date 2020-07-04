@@ -10,7 +10,8 @@ Sort the table by at least one category
 Filter the users by at least one property.
 
 ## Installation
-cd <directory name>
+cd "directory name"
+  
 npm start 
 
 ## Technologies Utilized
