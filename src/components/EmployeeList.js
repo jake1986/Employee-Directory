@@ -7,18 +7,6 @@ class EmployeeList extends Component {
             // returns table in JSX
             <table className="table">
                 <thead className="employee-table">
-                    {/* sory by function - to be developed */}
-                    <tr>
-                        {/* <th className="sort-by-column">
-                        Name:
-                    </th>
-                    <th className="sort-by-column">
-                        Email:
-                    </th>
-                    <th className="sort-by-column">
-                        Phone Number:
-                    </th> */}
-                    </tr>
                 </thead>
                 {/* map() method creates a new array populated with the results from data obtained */}
                 <tbody className="employee-data">
